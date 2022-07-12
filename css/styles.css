@@ -61,7 +61,7 @@ h6 {
 }
 
 .p-large {
-	font-size: 1.125rem;
+	font-size: 1.5rem;
 	line-height: 1.75rem;
 }
 
@@ -355,7 +355,7 @@ a:hover {
 
 .offcanvas-collapse {
 	position: fixed;
-	top: 3.25rem; /* adjusts the height between the top of the page and the offcanvas menu */
+	top: 4rem; /* adjusts the height between the top of the page and the offcanvas menu */
 	bottom: 0;
 	left: 100%;
 	width: 100%;
@@ -903,8 +903,8 @@ a:hover {
 /*     Footer     */
 /******************/
 .footer {
-	padding-top: 6.5rem;
-	padding-bottom: 1.5rem;
+	padding-top: 4rem;
+	/* padding-bottom: 1.5rem; */
 	background-color: #153e52;
 }
 
@@ -936,7 +936,7 @@ a:hover {
 	height: 3.25rem;
 	margin-bottom: 1.25rem;
 	margin-right: 0.375rem;
-	background: url('../images/hexagon-green.svg') center center no-repeat;
+	background: url('../images/hexagon.svg') center center no-repeat;
 	background-size: 52px 52px;
 	transition: all 0.2s ease;
 }
@@ -956,13 +956,20 @@ a:hover {
 	color: #ff448a;
 }
 
+.p-smallC {
+	font-size: 0.875rem;
+	line-height: 1.5rem;
+	text-align: center;
+	color: #efefef;
+	text-decoration: none;
+	margin-top: 0.8rem;
+}
 
 /*********************/
 /*     Copyright     */
 /*********************/
 .copyright {
-	padding-bottom: 1rem;
-	background-color: #153e52;
+	background-color: #042636;
 	text-align: center;
 }
 
@@ -1007,11 +1014,11 @@ a:hover {
 .ex-header {
 	padding-top: 8.5rem;
 	padding-bottom: 4rem;
-	background-color: #153e52;
+	background-color: #d4d4d4;
 }
 
 .ex-header h1 {
-	color: #ffffff;
+	color: #ff448a;
 }
 
 .ex-basic-1 .list-unstyled .fas {
