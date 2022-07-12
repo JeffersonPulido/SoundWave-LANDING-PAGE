@@ -477,7 +477,7 @@ a:hover {
 .header {
 	padding-top: 10rem;
 	padding-bottom: 8.5rem;
-	background: linear-gradient(rgba(255, 255, 255, 0.767), rgba(0, 0, 0, 0.637)), url('../images/header-background2.jpg') center center no-repeat;
+	background: linear-gradient(rgba(255, 255, 255, 0.767), rgba(0, 0, 0, 0.637)), url('../images/header-background2.webp') center center no-repeat;
 	background-size: cover;
 	text-align: center;
 }
@@ -675,7 +675,7 @@ a:hover {
 /*********************/
 .accordion-1 .area-1 {
 	height: 440px;
-	background: url('../images/details-1-background.png') center center no-repeat;
+	background: url('../images/details-1-background.webp') center center no-repeat;
 	background-size: cover;
 }
 
